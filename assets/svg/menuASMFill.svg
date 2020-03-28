@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="27px" viewBox="0 0 29 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Fill 1@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="25.4612576%" y1="23.7659304%" x2="79.2638475%" y2="80.760024%" id="linearGradient-1">
+            <stop stop-color="#FF8A6B" offset="0%"></stop>
+            <stop stop-color="#FC797D" offset="99.9129012%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.16侧导航" transform="translate(-301.000000, -471.000000)" fill="url(#linearGradient-1)">
+            <path d="M311.696087,492.038985 L315.261618,493.792093 L311.696087,498 L311.696087,492.038985 Z M329.523278,471 L322.392216,493.792093 L311.696087,490.285793 L325.066417,475.38315 L308.844025,489.934842 L301,485.376744 L329.523278,471 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>
